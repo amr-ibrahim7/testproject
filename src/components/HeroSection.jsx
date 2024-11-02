@@ -7,7 +7,7 @@ import { Button } from "./ui/button";
 const HeroSection = React.memo(() => {
   return (
     <div
-      className="relative flex items-center justify-center h-[500px] lg:h-[700px] text-center bg-cover bg-center"
+      className="relative flex items-center justify-center h-[800px] lg:h-[700px] text-center bg-cover bg-center"
       style={{ backgroundImage: "url('/image/hero1.jpg')" }}
     >
       {/* Overlay*/}
