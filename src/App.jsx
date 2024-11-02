@@ -10,7 +10,7 @@ import { ThemeProvider } from "./components/ThemeProvider";
 import WhatsAppIcon from "./components/WhatsAppIcon";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import Projects from "./pages/projects";
+import Projects from "./pages/Projects";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
